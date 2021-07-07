@@ -1,5 +1,2 @@
 # Cruise-lines
-
-This project analyzes the historical stock price performance of two cruise line corporations: Norwegian Cruise Line Corporation and Carnival Cruise Line Corporation.
-The Nasdaq ticker for both companies are: NCLH and CCL. 
-I analyzed their historical stock price performance since IPO, moving average, volatility, Sharpe ratio and its comparison with the Nasdaq Index. 
+In this project, I analyzed the stock performance of two cruise line corporations: Norwegian Cruise Line and Carnival Cruise Line. I analyzed their time series data since IPO, their moving average, volatility, Sharpe ratio and their comparison to the Nasdaq Index. I also analyzed their performance before and during the COVID-19 pandemic, and made prediction for the near future. Although they both suffered from the huge negative impact of COVID-19 pandemic in the first three months of 2020, we could see the stock prices began to resume thereafter. 
