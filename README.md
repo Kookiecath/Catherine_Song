@@ -1,4 +1,4 @@
-# Cruise-lines - Quantitative Analysis on the stock price
+# Cruise Industry - Quantitative Analysis on the stock price
     
 In this project, I was responsible for analyzing the stock price for two cruise line corporations (Norwegian Cruise Line and Carnival Cruise Line) from quantitative perspective. I analyzed their time series data since IPO, their moving average, volatility, Sharpe ratio, ETFs and their comparison to the Nasdaq Index. I also analyzed their performance before and during the COVID-19 pandemic, and made prediction for the near future. Although they both suffered from the huge negative impact of COVID-19 pandemic in the first three months of 2020, we could see the stock prices began to resume thereafter. 
 
