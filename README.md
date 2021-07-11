@@ -5,8 +5,11 @@ In this project, I was responsible for analyzing the stock price for two cruise 
 In addition, I combined all the python codes & output as well as the Qualitative analysis report(Written by Junting) together and formed a formal report through Latex. To help readers better understanding the purpose of doing this project, I also made a introductory video and slides to present our achievement。 
 
 Files in this folder:
-Quantitative Analysis report - Catherine Song\\
-Comprehensive report - Catherine Song and Junting Liu\\
-Introductory Video - Catherine Song\\
+Quantitative Analysis report - Catherine Song
+
+Comprehensive report - Catherine Song and Junting Liu  
+
+Introductory Video - Catherine Song   
+
 Power Point - Catherine Song and Junting Liu
 
